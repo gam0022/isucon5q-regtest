@@ -1,3 +1,8 @@
+GET /initialize HTTP/1.1
+
+
+
+
 GET / HTTP/1.1
 
 <a href="/login">Found</a>.
@@ -96,81 +101,81 @@ GET / HTTP/1.1
       
       <div class="comments-comment">
         <ul class="list-group">
-          <li class="list-group-item comment-owner"><a href="/profile/vincent3181">カヨさん</a>:</li>
-          <li class="list-group-item comment-comment">1165660554</li>
-          <li class="list-group-item comment-created-at">投稿時刻:2015-10-29 01:12:56</li>
+          <li class="list-group-item comment-owner"><a href="/profile/lois_metz880">ミカさん</a>:</li>
+          <li class="list-group-item comment-comment">なるほど？？</li>
+          <li class="list-group-item comment-created-at">投稿時刻:2015-09-16 05:00:00</li>
         </ul>
       </div>
       
       <div class="comments-comment">
         <ul class="list-group">
-          <li class="list-group-item comment-owner"><a href="/profile/maida_hane3532">シズミさん</a>:</li>
-          <li class="list-group-item comment-comment">1947576060</li>
-          <li class="list-group-item comment-created-at">投稿時刻:2015-10-29 01:12:56</li>
+          <li class="list-group-item comment-owner"><a href="/profile/tyra3266">ナナさん</a>:</li>
+          <li class="list-group-item comment-comment">ビールうまああああ...</li>
+          <li class="list-group-item comment-created-at">投稿時刻:2015-09-16 04:59:20</li>
         </ul>
       </div>
       
       <div class="comments-comment">
         <ul class="list-group">
-          <li class="list-group-item comment-owner"><a href="/profile/vincent3181">カヨさん</a>:</li>
-          <li class="list-group-item comment-comment">262782683</li>
-          <li class="list-group-item comment-created-at">投稿時刻:2015-10-29 01:12:56</li>
+          <li class="list-group-item comment-owner"><a href="/profile/jaleel_schmidt29">マイカさん</a>:</li>
+          <li class="list-group-item comment-comment">日本酒うまああああ...</li>
+          <li class="list-group-item comment-created-at">投稿時刻:2015-09-16 04:58:40</li>
         </ul>
       </div>
       
       <div class="comments-comment">
         <ul class="list-group">
-          <li class="list-group-item comment-owner"><a href="/profile/annamae350">ミサトさん</a>:</li>
-          <li class="list-group-item comment-comment">1293783473</li>
-          <li class="list-group-item comment-created-at">投稿時刻:2015-10-29 01:12:56</li>
+          <li class="list-group-item comment-owner"><a href="/profile/lilla_block3375">アユムさん</a>:</li>
+          <li class="list-group-item comment-comment">そばうまあああああ...</li>
+          <li class="list-group-item comment-created-at">投稿時刻:2015-09-16 04:58:00</li>
         </ul>
       </div>
       
       <div class="comments-comment">
         <ul class="list-group">
-          <li class="list-group-item comment-owner"><a href="/profile/vaughn_heathcote3206">ネネさん</a>:</li>
-          <li class="list-group-item comment-comment">59384291</li>
-          <li class="list-group-item comment-created-at">投稿時刻:2015-10-29 01:12:56</li>
+          <li class="list-group-item comment-owner"><a href="/profile/marley_hauck3153">ナツキさん</a>:</li>
+          <li class="list-group-item comment-comment">１ゲット！！</li>
+          <li class="list-group-item comment-created-at">投稿時刻:2015-09-16 04:57:20</li>
         </ul>
       </div>
       
       <div class="comments-comment">
         <ul class="list-group">
-          <li class="list-group-item comment-owner"><a href="/profile/benedict_satterfield2493">マサノリさん</a>:</li>
-          <li class="list-group-item comment-comment">172072832</li>
-          <li class="list-group-item comment-created-at">投稿時刻:2015-10-29 01:12:56</li>
+          <li class="list-group-item comment-owner"><a href="/profile/otha4768">ヨシジさん</a>:</li>
+          <li class="list-group-item comment-comment">天ぷらうまああああ...</li>
+          <li class="list-group-item comment-created-at">投稿時刻:2015-09-16 04:56:40</li>
         </ul>
       </div>
       
       <div class="comments-comment">
         <ul class="list-group">
-          <li class="list-group-item comment-owner"><a href="/profile/kathryn_cremin787">ヨシヒコさん</a>:</li>
-          <li class="list-group-item comment-comment">1388930931</li>
-          <li class="list-group-item comment-created-at">投稿時刻:2015-10-29 01:12:56</li>
+          <li class="list-group-item comment-owner"><a href="/profile/greg_leffler449">アサナさん</a>:</li>
+          <li class="list-group-item comment-comment">竜田揚げうまあああ...</li>
+          <li class="list-group-item comment-created-at">投稿時刻:2015-09-16 04:56:00</li>
         </ul>
       </div>
       
       <div class="comments-comment">
         <ul class="list-group">
-          <li class="list-group-item comment-owner"><a href="/profile/annamae350">ミサトさん</a>:</li>
-          <li class="list-group-item comment-comment">90505355</li>
-          <li class="list-group-item comment-created-at">投稿時刻:2015-10-29 01:12:56</li>
+          <li class="list-group-item comment-owner"><a href="/profile/rick_jacobs2050">トモカズさん</a>:</li>
+          <li class="list-group-item comment-comment">うどんうまああああ...</li>
+          <li class="list-group-item comment-created-at">投稿時刻:2015-09-16 04:55:20</li>
         </ul>
       </div>
       
       <div class="comments-comment">
         <ul class="list-group">
-          <li class="list-group-item comment-owner"><a href="/profile/hilario2774">カイトさん</a>:</li>
-          <li class="list-group-item comment-comment">554802647</li>
-          <li class="list-group-item comment-created-at">投稿時刻:2015-10-29 01:12:56</li>
+          <li class="list-group-item comment-owner"><a href="/profile/conner1701">セイキさん</a>:</li>
+          <li class="list-group-item comment-comment">天ぷらうまああああ...</li>
+          <li class="list-group-item comment-created-at">投稿時刻:2015-09-16 04:54:40</li>
         </ul>
       </div>
       
       <div class="comments-comment">
         <ul class="list-group">
-          <li class="list-group-item comment-owner"><a href="/profile/vada4885">ツヨシさん</a>:</li>
-          <li class="list-group-item comment-comment">110259077</li>
-          <li class="list-group-item comment-created-at">投稿時刻:2015-10-29 01:12:56</li>
+          <li class="list-group-item comment-owner"><a href="/profile/lavon_rodriguez1876">シナさん</a>:</li>
+          <li class="list-group-item comment-comment">きょうのもちもちう...</li>
+          <li class="list-group-item comment-created-at">投稿時刻:2015-09-16 04:54:00</li>
         </ul>
       </div>
       
@@ -180,14 +185,6 @@ GET / HTTP/1.1
   <div class="col-md-4">
     <div>あなたの友だちの日記エントリ</div>
     <div id="friend-entries">
-      
-      <div class="friend-entry">
-        <ul class="list-group">
-          <li class="list-group-item entry-owner"><a href="/diary/entries/edwardo3657">タダハルさん</a>:</li>
-          <li class="list-group-item entry-title"><a href="/diary/entry/500767">1803284755</a></li>
-          <li class="list-group-item entry-created-at">投稿時刻:2015-10-29 01:11:54</li>
-        </ul>
-      </div>
       
       <div class="friend-entry">
         <ul class="list-group">
@@ -261,20 +258,20 @@ GET / HTTP/1.1
         </ul>
       </div>
       
+      <div class="friend-entry">
+        <ul class="list-group">
+          <li class="list-group-item entry-owner"><a href="/diary/entries/pedro4026">ユウスケさん</a>:</li>
+          <li class="list-group-item entry-title"><a href="/diary/entry/499741">日本酒&lt;3</a></li>
+          <li class="list-group-item entry-created-at">投稿時刻:2015-08-12 03:02:00</li>
+        </ul>
+      </div>
+      
     </div>
   </div>
 
   <div class="col-md-4">
     <div>あなたの友だちのコメント</div>
     <div id="friend-comments">
-      
-      <div class="friend-comment">
-        <ul class="list-group">
-          <li class="list-group-item comment-from-to"><a href="/profile/edwardo3657">タダハルさん</a>から<a href="/profile/edwardo3657">タダハルさん</a>へのコメント:</li>
-          <li class="list-group-item comment-comment">601663209</li>
-          <li class="list-group-item comment-created-at">投稿時刻:2015-10-29 01:11:54</li>
-        </ul>
-      </div>
       
       <div class="friend-comment">
         <ul class="list-group">
@@ -345,6 +342,14 @@ GET / HTTP/1.1
           <li class="list-group-item comment-from-to"><a href="/profile/dandre_barrows442">ノリエさん</a>から<a href="/profile/rachael_kertzmann1206">ハルキさん</a>へのコメント:</li>
           <li class="list-group-item comment-comment">うどんうまああああ...</li>
           <li class="list-group-item comment-created-at">投稿時刻:2015-09-15 23:43:20</li>
+        </ul>
+      </div>
+      
+      <div class="friend-comment">
+        <ul class="list-group">
+          <li class="list-group-item comment-from-to"><a href="/profile/lolita4703">ニイナさん</a>から<a href="/profile/deion75">トモミさん</a>へのコメント:</li>
+          <li class="list-group-item comment-comment">なるほど？？</li>
+          <li class="list-group-item comment-created-at">投稿時刻:2015-09-15 23:31:20</li>
         </ul>
       </div>
       
@@ -546,6 +551,133 @@ GET /friends HTTP/1.1
         <dt class="friend-date">2015-03-03 23:54:00</dt><dd class="friend-friend"><a href="/profile/palma4975">ヨシタカ</a></dd>
         
     </dl>
+</div>
+</body>
+</html>
+
+
+POST /login HTTP/1.1
+
+
+
+
+GET /footprints HTTP/1.1
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <title>ISUxi</title>
+</head>
+
+<body class="container">
+<h1 class="jumbotron"><a href="/">ISUxiへようこそ!</a></h1>
+<h2>あしあとリスト</h2>
+<div class="row panel panel-primary" id="footprints">
+    <ul class="list-group">
+        
+        <li class="list-group-item footprints-footprint">2015-08-11 04:20:00: <a href="/profile/edd3311">セナさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-07-22 21:46:00: <a href="/profile/walton_reilly467">アカナさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-07-22 16:42:00: <a href="/profile/keshawn2090">ミユさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-07-16 15:26:00: <a href="/profile/pauline1757">サキさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-07-08 00:32:00: <a href="/profile/adolfo_fay1315">キョウナさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-07-06 18:08:00: <a href="/profile/rosalyn2076">タカシさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-06-21 00:46:00: <a href="/profile/cordell_ledner2071">マコトさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-06-18 11:10:00: <a href="/profile/shanon_hartmann4208">ジュンヤさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-06-08 12:12:00: <a href="/profile/brooklyn_hagenes2560">リョウタロウさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-05-23 18:26:00: <a href="/profile/armani3709">ミナミさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-05-03 12:10:00: <a href="/profile/abbey2192">レイサさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-04-27 00:26:00: <a href="/profile/dwight2293">ヨシマサさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-04-26 22:10:00: <a href="/profile/cory_hagenes2440">アキハルさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-04-21 00:20:00: <a href="/profile/lempi1610">サキエさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-04-19 19:54:00: <a href="/profile/roger_von191">ヒデアキさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-04-16 10:48:00: <a href="/profile/nelle_koelpin1803">ギンガさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-04-15 16:24:00: <a href="/profile/lane_powlowski3344">コウヨウさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-04-03 22:54:00: <a href="/profile/chelsie_waters2355">ヤスヒロさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-04-02 13:16:00: <a href="/profile/naomie_bartell4843">モトミさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-03-10 04:38:00: <a href="/profile/albin_schneider550">ナノハさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-03-07 07:04:00: <a href="/profile/torrey3594">リンさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-02-23 05:22:00: <a href="/profile/maida1974">タマミさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-02-15 11:44:00: <a href="/profile/leopoldo_ko1454">ヨシゾウさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-02-14 04:04:00: <a href="/profile/zula3277">ショウゴさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-02-08 08:54:00: <a href="/profile/orval_stark4531">ミズホさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-02-05 21:08:00: <a href="/profile/amelia4844">アキヒトさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-02-04 14:00:00: <a href="/profile/morgan_quigley1322">カオさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-01-28 08:38:00: <a href="/profile/winston2725">アヤエさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-01-27 05:32:00: <a href="/profile/teresa_will4139">カズマサさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-01-26 15:10:00: <a href="/profile/keira_fay4171">ナミさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2015-01-02 16:06:00: <a href="/profile/rubie_parisian809">サリさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-12-31 11:22:00: <a href="/profile/webster_gorczany4270">ワカコさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-12-28 03:58:00: <a href="/profile/marcellus_raynor3614">アユさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-12-27 23:34:00: <a href="/profile/lauren4489">ヨシカズさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-12-01 08:12:00: <a href="/profile/carlo_hackett1420">トモアキさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-11-27 23:00:00: <a href="/profile/pete_trantow4159">ハルトさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-11-26 11:12:00: <a href="/profile/mauricio_carter3580">リュウセイさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-11-16 18:36:00: <a href="/profile/carley_wunsch2033">アキさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-11-12 22:52:00: <a href="/profile/estrella2068">ミオンさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-11-12 13:08:00: <a href="/profile/arnaldo4155">テルさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-11-09 23:20:00: <a href="/profile/aleandra579">アツシさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-11-09 05:30:00: <a href="/profile/bert3942">マサミさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-11-05 08:54:00: <a href="/profile/johathan943">ヒロアさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-11-03 09:30:00: <a href="/profile/cleta651">シンゾウさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-10-12 23:56:00: <a href="/profile/taurean2561">タイチさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-10-01 18:44:00: <a href="/profile/elfrieda333">カホさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-10-01 14:18:00: <a href="/profile/gilbert_borer2731">アキラさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-09-27 21:16:00: <a href="/profile/benton_cremin2322">サトエさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-09-04 09:10:00: <a href="/profile/jamar1178">キノさん</a></li>
+        
+        <li class="list-group-item footprints-footprint">2014-08-21 06:20:00: <a href="/profile/soledad3120">コウタロウさん</a></li>
+        
+    </ul>
 </div>
 </body>
 </html>
