@@ -19,10 +19,16 @@ def bench()
   start = Time.now
   request = logs(yield)
   stop = Time.now
+
+  time = stop - start
+  $total_time += time
+
   STDERR.puts request
-  STDERR.puts "#{stop - start}[s]"
+  STDERR.puts "#{time}[s]"
   STDERR.puts
 end
+
+$total_time = 0.0
 
 base_url = 'http://130.211.250.13'
 
@@ -37,3 +43,5 @@ bench { client1.get(base_url + '/friends') }
 client2 = HTTPClient.new
 bench { client1.post(base_url + '/login', password: 'armand875', email: 'armand875@isucon.net') }
 bench { client1.get(base_url + '/footprints') }
+
+STDERR.puts "TOTAL: #{$total_time}[s]"
