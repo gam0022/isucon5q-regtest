@@ -4,8 +4,8 @@ require 'pp'
 
 def logs(response)
   h = response.http_header
-
   request = "#{h.request_method} #{h.request_uri.request_uri} HTTP/#{h.http_version}"
+
   puts request
   puts
   puts response.body
