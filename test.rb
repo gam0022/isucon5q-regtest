@@ -45,3 +45,6 @@ bench { client1.post(base_url + '/login', password: 'armand875', email: 'armand8
 bench { client1.get(base_url + '/footprints') }
 
 STDERR.puts "TOTAL: #{$total_time}[s]"
+
+# MEMO: cookieの値のチェック
+# client1.cookies[0].value
